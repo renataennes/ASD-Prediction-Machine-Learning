@@ -53,4 +53,7 @@ pip install -r requirements.txt
 Abra o notebook localizado na pasta notebooks/ e execute as células sequencialmente
 
 
+---
+Projetado por Renata Ennes - 2026
+
 
