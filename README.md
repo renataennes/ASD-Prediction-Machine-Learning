@@ -43,15 +43,14 @@ autism-prediction/
 ---
 
 ## 🚀 Como executar este projeto
-1. Clone o repositório:
-```bash
+-Clone o repositório:
 git clone https://github.com/renataennes/ASD-Prediction-Machine-Learning.git
-2. Acesse o diretório do projeto:
+- Acesse o diretório do projeto:
 cd ASD-Prediction-Machine-Learning
-3. Instale as dependências necessárias:
+- Instale as dependências necessárias:
 pip install -r requirements.txt
-4. Inicie o Jupyter Notebook:
-Abra o notebook localizado na pasta notebooks/ e execute as células sequencialmente.
+- Inicie o Jupyter Notebook:
+Abra o notebook localizado na pasta notebooks/ e execute as células sequencialmente
 
 
 
