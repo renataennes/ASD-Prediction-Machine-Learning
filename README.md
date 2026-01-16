@@ -1,42 +1,6 @@
 # 🧠 Autism Spectrum Disorder (ASD) Prediction
 This project aims to perform Exploratory Data Analysis (EDA) and Autism Spectrum Disorder (ASD) prediction using Machine Learning techniques in Python.
 
-📌 Technologies Used
-
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
-Jupyter Notebook
-
-📊 Exploratory Data Analysis
-Distribution of ASD Cases
-ASD variable countplot
-🤖 Machine Learning Models
-Data preprocessing
-Model training
-Performance evaluation
-
-📁 Project Structure
-autism-prediction/
-├── data/
-├── notebooks/
-├── images/
-├── requirements.txt
-└── README.md
-
-🚀 How to Run the Project
-
-Clone the repository:
-
-git clone https://github.com/renataennes/ASD-Prediction-Machine-Learning.git
-Install the dependencies:
-pip install -r requirements.txt
-
-------------------------------------
-
 Este projeto tem como objetivo realizar a **análise exploratória de dados** e a **predição de Transtorno do Espectro Autista (ASD)** utilizando técnicas de Machine Learning em Python.
 
 
@@ -78,17 +42,16 @@ autism-prediction/
 
 ---
 
-## 🚀 Como Executar o Projeto
-
+## 🚀 Como executar este projeto
 1. Clone o repositório:
 ```bash
 git clone https://github.com/renataennes/ASD-Prediction-Machine-Learning.git
-
-Instale as dependências:
+2. Acesse o diretório do projeto:
+cd ASD-Prediction-Machine-Learning
+3. Instale as dependências necessárias:
 pip install -r requirements.txt
-
-Abra o notebook:
-jupyter notebook
+4. Inicie o Jupyter Notebook:
+Abra o notebook localizado na pasta notebooks/ e execute as células sequencialmente.
 
 
 
