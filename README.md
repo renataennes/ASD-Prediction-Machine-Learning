@@ -14,6 +14,12 @@ Este projeto tem como objetivo realizar a **análise exploratória de dados** e 
 - Jupyter Notebook
 
 ---
+## 🚀 Destaques do Projeto
+
+* **Análise de Correlação:** Identificação de que os scores A3, A4, A6 e A9 possuem a maior força preditiva no diagnóstico.
+* **Tratamento de Dados Desbalanceados:** Implementação da técnica **SMOTE** para equilibrar a base de dados, aumentando a capacidade do modelo de identificar casos positivos (Classe 1).
+* **Otimização:** Uso de `RandomizedSearchCV` para encontrar os melhores hiperparâmetros para algoritmos de árvore.
+* **Persistência de Modelo:** Exportação do modelo final em formato `.pkl` para uso em produção.
 
 ## 📊 Análise Exploratória
 
@@ -31,6 +37,17 @@ Este projeto tem como objetivo realizar a **análise exploratória de dados** e 
 - Avaliação de desempenho
 
 ---
+## 📊 Performance do Modelo Final
+
+O modelo alcançou os seguintes resultados no conjunto de teste:
+
+| Métrica | Valor |
+| :--- | :--- |
+| **Acurácia Geral** | 82% |
+| **Precisão (Classe 1)** | 59% |
+| **Recall (Classe 1)** | 64% |
+
+A matriz de confusão revelou um equilíbrio sólido, minimizando Falsos Negativos, o que é crucial em contextos de saúde.
 
 ## 📁 Estrutura do Projeto
 autism-prediction/
